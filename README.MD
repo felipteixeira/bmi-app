@@ -6,5 +6,6 @@
 git clone https://github.com/felipteixeira/bmi-app
 yarn
 cd ios/
+pod install
 yarn ios
 ```
